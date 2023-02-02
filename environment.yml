@@ -10,5 +10,4 @@ dependencies:
   - ipywidgets = 7.6.5
   - scipy = 1.7.3
   - numba = 0.55.1
-  - pip:
-    - git+https://github.com/valnoacco/SAFE_workshop_UCL/tree/main/SAFE-python
+
