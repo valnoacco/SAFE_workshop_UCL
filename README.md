@@ -1,3 +1,5 @@
+Link: https://mybinder.org/v2/gh/valnoacco/SAFE_workshop_UCL/HEAD?urlpath=tree/GSA_workflow_tutorial.ipynb
+
 # SAFE-Python
 Python version of the Sensitivity Analysis for Everybody (SAFE) Toolbox.
 
