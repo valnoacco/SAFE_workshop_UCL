@@ -351,7 +351,7 @@ def RSA_plot_groups(X, idx, Yk, n_col=5, X_Labels=[], legend_title='Y'):
     colorscale = 'jet' # color plot
     # colorscale = 'gray' # balck and white plot
     # Text formating of colorbar's ticklabels
-    ticklabels_form = '%6.1f' # float with 1 character after decimal point
+    ticklabels_form = '%6.2f' # float with 2 character after decimal point
     # ticklabels_form = '%d' # integer
 
     ###########################################################################
